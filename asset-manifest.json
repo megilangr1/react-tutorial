@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/megilangr1/react-tutorial/static/css/main.71bd5e9e.chunk.css",
+    "main.js": "/megilangr1/react-tutorial/static/js/main.384284ea.chunk.js",
+    "main.js.map": "/megilangr1/react-tutorial/static/js/main.384284ea.chunk.js.map",
+    "runtime-main.js": "/megilangr1/react-tutorial/static/js/runtime-main.043cd6fd.js",
+    "runtime-main.js.map": "/megilangr1/react-tutorial/static/js/runtime-main.043cd6fd.js.map",
+    "static/js/2.4734f653.chunk.js": "/megilangr1/react-tutorial/static/js/2.4734f653.chunk.js",
+    "static/js/2.4734f653.chunk.js.map": "/megilangr1/react-tutorial/static/js/2.4734f653.chunk.js.map",
+    "index.html": "/megilangr1/react-tutorial/index.html",
+    "precache-manifest.b2592832d96fd4ecc5326c143fab59be.js": "/megilangr1/react-tutorial/precache-manifest.b2592832d96fd4ecc5326c143fab59be.js",
+    "service-worker.js": "/megilangr1/react-tutorial/service-worker.js",
+    "static/css/main.71bd5e9e.chunk.css.map": "/megilangr1/react-tutorial/static/css/main.71bd5e9e.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.043cd6fd.js",
+    "static/js/2.4734f653.chunk.js",
+    "static/css/main.71bd5e9e.chunk.css",
+    "static/js/main.384284ea.chunk.js"
+  ]
+}
